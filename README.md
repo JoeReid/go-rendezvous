@@ -1,3 +1,6 @@
+[![Go](https://github.com/JoeReid/go-rendezvous/actions/workflows/go.yaml/badge.svg)](https://github.com/JoeReid/go-rendezvous/actions/workflows/go.yaml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/JoeReid/go-rendezvous.svg)](https://pkg.go.dev/github.com/JoeReid/go-rendezvous)
+
 # go-rendezvous
 
 This package provides a simplistic implementation of Rendezvous Hashing with a pluggable `hash.Hash` function.
